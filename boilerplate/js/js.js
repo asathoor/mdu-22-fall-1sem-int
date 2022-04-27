@@ -1,4 +1,5 @@
 /**
  * file: js/js.js
- * purpose: Behavior
+ * purpose: Behaviors
  **/
+console.log('Success: JavaScript from js/js.js running!')
